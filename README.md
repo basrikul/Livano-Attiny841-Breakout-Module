@@ -5,7 +5,7 @@ Livano is a very small microcontroller module that supports programming via Ardu
 Livano V1.0
 ---------------
 
-Livano ultra small (28mm x 16mm) module which includes
+Livano ultra small (28mm x 16mm) module which is includes,
 
 1- Attiny so-14
 
