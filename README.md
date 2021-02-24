@@ -15,5 +15,10 @@ Livano ultra small (28mm x 16mm) module which is includes,
 
 4- 4 layer PCB (for high accuracy ADC usage)
 
+
+![GitHub Logo](/livano_r1.bmp)
+
+![GitHub Logo](/livano_pcb_r1.bmp)
+
 ![GitHub Logo](/livano_sch_r1.bmp)
 
