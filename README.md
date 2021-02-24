@@ -14,3 +14,4 @@ Livano ultra small (28mm x 16mm) module which is includes,
 3- PDI programmer pins header (2x3 1mm pitch size SPI compatible header)
 
 4- 4 layer PCB (for high accuracy ADC usage)
+
