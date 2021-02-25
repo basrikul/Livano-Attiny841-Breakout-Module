@@ -20,9 +20,7 @@ One 8-bit and Two 16-bit Timer/Counters with Two PWM Channels, Each
 Two Full Duplex USARTs with Start Frame Detection
 Master/Slave SPI Serial Interface,Slave I2C Serial Interface
 
-![GitHub Logo](/_dsc5287.jpg)
-
-![GitHub Logo](/livano_r1.bmp)
+![GitHub Logo](/_dsc5287.jpg) ![GitHub Logo](/livano_r1.bmp)
 
 ![GitHub Logo](/livano_pcb_r1.bmp)
 
