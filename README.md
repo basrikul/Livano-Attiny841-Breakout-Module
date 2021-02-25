@@ -8,12 +8,17 @@ Livano V1.0
 Livano ultra small (28mm x 16mm) module which is includes,
 
 1- Attiny so-14
-
 2- CH340e (SSOP10) for external USB support
-
 3- PDI programmer pins header (2x3 1mm pitch size SPI compatible header)
-
 4- 4 layer PCB (for high accuracy ADC usage)
+
+Important Pheripherals
+-------------------------
+One 8-bit and Two 16-bit Timer/Counters with Two PWM Channels, Each
+10-bit Analog to Digital Converter, 12 External and 5 Internal, Single-ended Input Channels
+46 Differential ADC Channel Pairs with Programmable Gain (1x / 20x / 100x)
+Two Full Duplex USARTs with Start Frame Detection
+Master/Slave SPI Serial Interface,Slave I2C Serial Interface
 
 ![GitHub Logo](/_dsc5287.jpg)
 
