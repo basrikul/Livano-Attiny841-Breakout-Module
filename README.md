@@ -1,6 +1,6 @@
 # Livano-Module
 
-Livano is a very small microcontroller module that supports programming via Arduino.
+Livano is a very small breakout module that supports programming via Arduino or SPI/PDI.
 Also ADC Channel Pairs with Programmable Gain (1x / 20x / 100x).
 
 Livano V1.0
@@ -10,7 +10,7 @@ Livano ultra small (28mm x 16mm) module which is includes,
 
 1- Attiny841 so-14   (3.3V operating voltage)
 
-2- CH340e (SSOP10) for external USB support
+2- CH340e (SSOP10) for USB connection
 
 3- PDI programmer pins header (2x3 1mm pitch size SPI compatible header)
 
