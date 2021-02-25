@@ -8,7 +8,7 @@ Livano V1.0
 
 Livano ultra small (28mm x 16mm) module which is includes,
 
-1- Attiny841 so-14
+1- Attiny841 so-14   (3.3V operating voltage)
 
 2- CH340e (SSOP10) for external USB support
 
