@@ -6,19 +6,19 @@ Also ADC Channel Pairs with Programmable Gain (1x / 20x / 100x).
 Livano V1.0
 ---------------
 
-Livano ultra small (28mm x 16mm) module which is includes,
+Livano ultra small (28mm x 16mm) breakout module which is includes,
 
-1- Attiny841 so-14   (3.3V operating voltage)
+1- **Attiny841** so-14   (**3.3V** operating voltage)
 
-2- CH340e (SSOP10) for USB connection
+2- **CH340e** (SSOP10) for USB connection
 
 3- PDI programmer pins header (2x3 1mm pitch size SPI compatible header)
 
 4- 4 layer PCB (for high accuracy ADC usage)
 
-5- External Vin 5-9VDC or supply from USB
+5- External Vin **5-9VDC** or supply from USB
 
-6- External programmer support via PDI/SPI pin (2x3 header-1mm pitch size)
+6- External programmer support via **PDI/SPI** pin (2x3 header-1mm pitch size)
 
 Important Pheripherals
 -------------------------
