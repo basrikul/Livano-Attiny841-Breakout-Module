@@ -18,6 +18,8 @@ Livano ultra small (28mm x 16mm) module which is includes,
 
 5- External Vin 5-9VDC or supply from USB
 
+6- External programmer support via PDI/SPI pin (2x3 header-1mm pitch size)
+
 Important Pheripherals
 -------------------------
 One 8-bit and Two 16-bit Timer/Counters with Two PWM Channels, 10-bit Analog to Digital Converter, 12 External and 5 Internal, Single-ended Input Channels
