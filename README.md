@@ -4,6 +4,8 @@ Livano is a very small breakout module that supports programming via Arduino or 
 You Can Programming via **avr studio without  bootloader**.
 Also ADC Channel Pairs with Programmable Gain (1x / 20x / 100x).
 
+please check https://github.com/SpenceKonde/megaTinyCore for adc,timers,etc...
+
 Livano V1.0
 ---------------
 
