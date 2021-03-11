@@ -42,3 +42,7 @@ Master/Slave SPI Serial Interface,Slave I2C Serial Interface
 ![GitHub Logo](/_dsc52891.jpg)
 
 ![GitHub Logo](/_dsc5290.jpg)
+
+![GitHub Logo](/livano_pinout_r13s.bmp)
+
+![GitHub Logo](/Pinout_841.bmp)
